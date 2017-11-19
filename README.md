@@ -1,2 +1,2 @@
 # Visual composer object
-:love:
+:coffee:
