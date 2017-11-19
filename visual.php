@@ -1,7 +1,7 @@
 <?php 
 
 /**
-* 
+*  Create visual composer addons easly
 */
 class Qvisual
 {
