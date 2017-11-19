@@ -17,7 +17,7 @@ Qvisual::end();
 Whene you finished your programe then you need to call this function.
 if you do not call this function on your programe will not work.
 
-# field function
+# Add addons
 ```php
 $changeName = QVisual::add(array(
     'name' => 'NameChanging',
@@ -42,7 +42,7 @@ Qvisual::textarea($changeName,array(
 
 ```
 
-# All Fields Here
+# All Fields Here functions
 ```php
 QVisual::textfield();
 QVisual::textarea();
