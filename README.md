@@ -1,2 +1,7 @@
 # Visual composer object
-:coffee:
+
+{::nomarkdown}
+
+<!-- HTML CODE-->
+<title>Visual Composer</title>
+{:/}
