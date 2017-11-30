@@ -15,7 +15,7 @@ Set default ``` icon ``` and ``` category ``` on visual composer
 Qvisual::end();
 ```
 Whene you finished your programe then you need to call this function.
-if you do not call this function on your programe will not work.
+if you do not call this function on your program it will not work.
 
 # Add addons
 ```php
